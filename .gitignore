@@ -1,13 +1,6 @@
-# See https://help.github.com/ignore-files/ for more about ignoring files.
-
-# dependencies
+.DS_Store
 /node_modules
-
-# testing
+*.log
 /coverage
-
-# production
 /dist
-
 .cache
-package-lock.json

@@ -1,14 +1,7 @@
-# parcel-inferno
+# minimal parcel inferno starter
 
-Boilerplate for inferno app using parcel bundler.
-
-Content:
-
-- [Inferno](https://infernojs.org) v6
-- [Parcel](https://parceljs.org/) 1.9
-- [Babel](https://babeljs.io) v7 + configuration (Inferno, env, class-properties)
-- [Jest](https://facebook.github.io/jest) 23 (snapshot testing example)
-- Sass file support
-- [Postcss](https://postcss.org/) config (auto-prefixer)
-- [Prettier](https://prettier.io/) 1.14 (with pre-commit hook)
-- [Eslint](https://eslint.org) config
+```
+npm i         # install dependencies
+npm start     # start dev-derver
+npm run build # build static version of site, ready for deployment
+```

@@ -1,9 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`renders without crashing 1`] = `
-<input
-  onInput={[Function]}
-  type="text"
-  value="test value"
-/>
-`;
